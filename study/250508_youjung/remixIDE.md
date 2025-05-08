@@ -38,3 +38,6 @@ File Explorer - 코딩 (.sol 파일 작성) → Solidity Compiler(오류 확인 
 2. Solidity Compiler역할: 작성한 코드를 컴파일하여 이더리움이 이해할 수 있는 바이트코드와 ABI를 생성
 3. Deploy & Run Transactions 역할: EVM에 컨트랙트를 올리는 단계
 4. Deployed Contracts UI 역할: 함수 호출, 상태 변수 확인, 트랜잭션 전송 등 실행 단계
+
+
+
